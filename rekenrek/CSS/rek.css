@@ -4,9 +4,7 @@ html{
     padding: 0px;
     overflow: hidden;
 }
-header, section, footer, aside, nav, main, article, figure {
-    display: block; 
-}
+
 body{
     border: 0px;
     margin: 0px;
@@ -15,7 +13,7 @@ body{
     background-image: url(../img/altres/backgroundd.png);
     background-repeat: no-repeat;
     overflow: hidden;
-    z-index: -14;
+    z-index: -2;
 }
 
 #count{
