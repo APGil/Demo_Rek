@@ -4,7 +4,9 @@ html{
     padding: 0px;
     overflow: hidden;
 }
-
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+}
 body{
     border: 0px;
     margin: 0px;
