@@ -13,6 +13,7 @@ body{
     background-image: url(../img/altres/backgroundd.png);
     background-repeat: no-repeat;
     overflow: hidden;
+    z-index: -14;
 }
 
 #count{
